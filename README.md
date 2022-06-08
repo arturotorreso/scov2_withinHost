@@ -9,7 +9,7 @@ https://www.biorxiv.org/content/10.1101/2022.06.07.495142v1 (not peer-reviewed)
 > Maximum likelihood tree inference: raxml_ng.sh <br/>
 
 3. Whole-genome sequence analysis
-> Raw reads mapping: <br/>
+> Raw reads mapping: align.sh <br/>
 > Variant calling: <br/>
 
 4. Analysis
