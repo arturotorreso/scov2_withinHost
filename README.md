@@ -16,4 +16,4 @@ https://www.biorxiv.org/content/10.1101/2022.06.07.495142v1 (not peer-reviewed)
 > Comparison of technical replicates: 1_techReps.R <br/>
 > Pairwise comparison of samples: 2_epiLinks.R <br/>
 > Temporal signal in clusters: 3_clust_signal.R <br/>
-> Transmission inference: <br/>
+> Transmission inference: transPairs.R, likelihoodSEIR.R, transPairs_heatmap.R, transPairs_network.R <br/>
