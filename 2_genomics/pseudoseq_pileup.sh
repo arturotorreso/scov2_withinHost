@@ -17,7 +17,7 @@ hostname
 REF=/SAN/scov2/reference/sarscov2.wuhan1.NC_045512.2.fa;
 
 IN_DIR=/SAN/scov2/illumina/bam;
-VCF_DIR=/SAN/scov2/illumina/vcf_freqs
+VCF_DIR=/SAN/scov2/illumina/vcf
 OUT_MSA=/SAN/scov2/illumina/pseudosequence;
 
 
