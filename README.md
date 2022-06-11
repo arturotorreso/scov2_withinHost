@@ -11,6 +11,7 @@ https://www.biorxiv.org/content/10.1101/2022.06.07.495142v1 (not peer-reviewed)
 3. Whole-genome sequence analysis (2_genomics)
 > Raw reads mapping: align.sh <br/>
 > Variant calling: <br/>
+> Pseudosequence: pseudoseq_pileup.sh, vcf2pseudoseq.py, add_maj_min.py <br/>
 
 4. Analysis (3_analysis)
 > Comparison of technical replicates: 1_techReps.R <br/>
